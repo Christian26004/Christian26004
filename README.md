@@ -2,8 +2,6 @@
 
 ## I am a software engineer attending UT San Antonio!
 
----
-
 ### Tools & Skills
 
 Programming Languages:
